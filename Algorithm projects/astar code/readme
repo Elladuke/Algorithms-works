@@ -1,0 +1,7 @@
+#Immanuella Duke
+#Astar algorithm code
+
+Originally this Astar algorithm implementation was created to work on an EV3 LegoMindstorm robot.
+However, since the robot is not always readily available, a simulation was created to show how this path planning algorithm works.
+The "robot" moves in a 7 by 7 grid with obstacles, a start cell and an end cell. The robot is given a map of its environment. 
+With knowledge of the obstacle cells, the robot finds the best route from start to goal while avoiding all obstacles in its path.
